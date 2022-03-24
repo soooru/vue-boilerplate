@@ -1,10 +1,12 @@
 <template>
-  <div>samples</div>
+  <div>
+    <h2>VUE SAMPLE 만들기</h2>
+  </div>
 </template>
 
 <script>
 export default {
-  name: "MyInput",
+  name: "TheHeader",
 }
 </script>
 
