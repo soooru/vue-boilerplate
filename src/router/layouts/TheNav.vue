@@ -1,10 +1,10 @@
 <template>
-  <header>vue-boilerplate</header>
+  <div>TheNav</div>
 </template>
 
 <script>
 export default {
-  name: "TheHeader",
+  name: "TheNav",
 }
 </script>
 
